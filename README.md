@@ -1,5 +1,5 @@
 # Program Validasi Formulir Pendaftaran
-
+![CodePicture](pictures/code.png)  
 Program ini memvalidasi input dari pengguna untuk memastikan data yang dimasukkan sesuai dengan aturan yang telah ditentukan. Program memeriksa tiga jenis input: nama lengkap, nomor telepon, dan email.
 
 ## Fitur Validasi
